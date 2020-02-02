@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aca9acae-95e7-4c94-8f0a-e9044473cd28" name="Default Changelist" comment="Add pagination">
+    <list default="true" id="aca9acae-95e7-4c94-8f0a-e9044473cd28" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
@@ -58,7 +58,7 @@
       <updated>1579780103369</updated>
       <workItem from="1579780105625" duration="1896000" />
       <workItem from="1580301018347" duration="9290000" />
-      <workItem from="1580681755632" duration="882000" />
+      <workItem from="1580681755632" duration="1911000" />
     </task>
     <task id="LOCAL-00001" summary="Fetch data from the local server">
       <created>1580311013020</created>
@@ -109,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580395544865</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add sign up auth">
+      <created>1580683514322</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1580683514322</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,13 +130,14 @@
     <MESSAGE value="Update the post" />
     <MESSAGE value="Amend the URL to delete the post" />
     <MESSAGE value="Add pagination" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add pagination" />
+    <MESSAGE value="Add sign up auth" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add sign up auth" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2481" y="158" key="CommitChangelistDialog2" timestamp="1580396614698">
+    <state x="2481" y="158" key="CommitChangelistDialog2" timestamp="1580683513303">
       <screen x="0" y="23" width="3840" height="2137" />
     </state>
-    <state x="2481" y="158" key="CommitChangelistDialog2/0.23.3840.2137@0.23.3840.2137" timestamp="1580396614698" />
+    <state x="2481" y="158" key="CommitChangelistDialog2/0.23.3840.2137@0.23.3840.2137" timestamp="1580683513303" />
     <state x="2116" y="506" key="Vcs.Push.Dialog.v2" timestamp="1580396620849">
       <screen x="0" y="23" width="3840" height="2137" />
     </state>
